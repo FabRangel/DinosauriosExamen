@@ -21,11 +21,11 @@
         <input type="text" id="especie" name="especie" required><br><br>
 
         <label for="longitud">Longitud (en metros):</label>
-        <input type="number" id="longitud" name="longitud" step="0.1" required><br><br>
+        <input type="number" id="longitud" name="longitud" step="0.1" min="0.1" required><br><br>
 
         <label for="periodo">Periodo:</label>
-        <input type="text" id="periodo" name="periodo" required><br><br>
-
+        <input type="text" id="periodo" name="periodo" pattern="^[a-zA-ZáéíóúÁÉÍÓÚñÑ]+$" required><br><br>
+ 
         <button type="submit">Agregar Dinosaurio</button>
     </form>
 </body>
