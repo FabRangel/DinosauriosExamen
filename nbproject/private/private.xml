@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/fgmrr/NetBeansProjects/Dinosaurios/src/java/Controller/DinoServlet.java</file>
+            <file>file:/Users/fgmrr/NetBeansProjects/Dinosaurios/web/jsp/agregarDino.jsp</file>
+            <file>file:/Users/fgmrr/NetBeansProjects/Dinosaurios/src/java/Controller/BeanServlet.java</file>
+            <file>file:/Users/fgmrr/NetBeansProjects/Dinosaurios/web/jsp/xmlDino.jsp</file>
+            <file>file:/Users/fgmrr/NetBeansProjects/Dinosaurios/web/jsp/verDino.jsp</file>
+            <file>file:/Users/fgmrr/NetBeansProjects/Dinosaurios/web/index.html</file>
+            <file>file:/Users/fgmrr/NetBeansProjects/Dinosaurios/src/java/Controller/XMLServlet.java</file>
+            <file>file:/Users/fgmrr/NetBeansProjects/Dinosaurios/src/java/Bean/DinoBean.java</file>
+            <file>file:/Users/fgmrr/NetBeansProjects/Dinosaurios/web/jsp/beanDino.jsp</file>
+        </group>
+    </open-files>
+</project-private>
